@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
+__I am a Husband, Father__
 
 - 🔭 I’m currently working on Data Architecture
 - 🌱 I’m currently learning how to build user defined functions in Dremio
